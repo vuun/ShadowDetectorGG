@@ -1,0 +1,9 @@
+﻿  ShadowDetector.cpp
+c:\users\vuun\desktop\intern\shadowdetector\shadowdetector\shadowdetector.cpp(87): warning C4018: '>': signed/unsigned mismatch
+c:\users\vuun\desktop\intern\shadowdetector\shadowdetector\shadowdetector.cpp(90): warning C4018: '>': signed/unsigned mismatch
+c:\users\vuun\desktop\intern\shadowdetector\shadowdetector\shadowdetector.cpp(106): warning C4018: '>=': signed/unsigned mismatch
+c:\users\vuun\desktop\intern\shadowdetector\shadowdetector\shadowdetector.cpp(229): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\vuun\desktop\intern\shadowdetector\shadowdetector\shadowdetector.cpp(230): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\vuun\desktop\intern\shadowdetector\shadowdetector\shadowdetector.cpp(231): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\vuun\desktop\intern\shadowdetector\shadowdetector\shadowdetector.cpp(233): warning C4244: '=': conversion from 'float' to 'uchar', possible loss of data
+  ShadowDetector.vcxproj -> C:\Users\vuun\Desktop\intern\ShadowDetector\Debug\ShadowDetector.exe
